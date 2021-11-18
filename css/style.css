@@ -1,0 +1,23 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #000;
+    overflow: hidden;
+}
+
+
+p{
+    width: 651px;
+    font-size: 10px;
+    line-height: 2px;
+    background: url('../images/daba.png');
+    background-attachment: fixed;;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255,255,255,0.1);
+}
